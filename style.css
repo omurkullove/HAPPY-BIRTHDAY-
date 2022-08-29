@@ -1,0 +1,17 @@
+body {
+  background-image: url(./photo_2022-07-24_23-43-09.jpg);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+button {
+  width: 300px;
+  height: 50px;
+  background-color: pink;
+  font-weight: bold;
+}
